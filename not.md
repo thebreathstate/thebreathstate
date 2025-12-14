@@ -1,6 +1,7 @@
 # What This Framework Is Not
 
 The Breath State™ framework is frequently misclassified because it operates upstream of most familiar systems.  
+
 This page exists to establish explicit boundaries.
 
 Misunderstanding these boundaries results in misuse.
@@ -12,11 +13,13 @@ Misunderstanding these boundaries results in misuse.
 The Breath State™ framework does not prescribe actions, routines, habits, or steps.
 
 It does not instruct:
+
 - what to do
 - how to do it
 - when to do it
 
 Methods operate on behavior.  
+
 The Breath State™ framework governs state.
 
 ---
@@ -26,11 +29,13 @@ The Breath State™ framework governs state.
 The framework does not optimize output, efficiency, or throughput.
 
 It does not:
+
 - increase speed
 - maximize performance
 - guarantee results
 
 Productivity systems assume readiness.  
+
 The Breath State™ framework explains when readiness exists.
 
 ---
@@ -40,11 +45,13 @@ The Breath State™ framework explains when readiness exists.
 The framework does not offer techniques for rest, recovery, or regulation.
 
 It does not specify:
+
 - recovery practices
 - wellness routines
 - rest strategies
 
 Recovery is an Inhale function, not a Pause function.  
+
 Pause is neutral suspension, not restoration.
 
 ---
@@ -54,6 +61,7 @@ Pause is neutral suspension, not restoration.
 The Breath State™ framework does not diagnose, treat, or interpret psychological conditions.
 
 It does not:
+
 - analyze emotions
 - assign meaning to feelings
 - address pathology
@@ -67,6 +75,7 @@ Friction and depletion are structural signals, not psychological judgments.
 The framework does not seek to inspire, encourage, or persuade.
 
 It does not rely on:
+
 - belief
 - mindset
 - willpower
@@ -81,6 +90,7 @@ Recognition of the framework requires observation, not motivation.
 The Breath State™ framework does not classify people.
 
 It does not define:
+
 - types
 - traits
 - preferences
@@ -93,6 +103,7 @@ States are conditions, not characteristics.
 ## Not Expandable
 
 The framework consists of exactly three states:
+
 - Inhale
 - Pause
 - Exhale
@@ -106,6 +117,7 @@ Expansion weakens explanatory power and violates the framework boundary.
 ## Not a Replacement for Existing Systems
 
 The Breath State™ framework does not replace:
+
 - productivity systems
 - learning models
 - recovery practices
@@ -122,6 +134,7 @@ It explains why such systems succeed or fail depending on state alignment.
 The breath cycle is not used symbolically.
 
 It functions as a biological constraint governing:
+
 - accumulation
 - suspension
 - expression
@@ -133,6 +146,7 @@ The framework derives from structure, not analogy.
 ## Boundary Statement
 
 Any interpretation or derivative that:
+
 - adds states
 - redefines terms
 - introduces prescriptive behavior
