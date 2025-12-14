@@ -5,6 +5,7 @@
 ## Breath State™
 
 A first-principles framework describing the cyclical structure governing human capacity, neutrality, and expression.  
+
 The framework consists of exactly three states: Inhale, Pause, and Exhale.
 
 ---
@@ -13,9 +14,9 @@ The framework consists of exactly three states: Inhale, Pause, and Exhale.
 
 The state of inward accumulation of capacity.
 
-Inhale increases internal readiness, tolerance, or capability.  
-Its effects are internal and preparatory.  
-Inhale does not directly alter the external environment.
+* Inhale increases internal readiness, tolerance, or capability.  
+* Its effects are internal and preparatory.  
+* Inhale does not directly alter the external environment.
 
 ---
 
@@ -23,9 +24,9 @@ Inhale does not directly alter the external environment.
 
 The state of neutral suspension between accumulation and expression.
 
-Pause neither builds nor expends capacity.  
-Pause conserves existing capacity without modification.  
-Pause has no directionality and no loops.
+* Pause neither builds nor expends capacity.  
+* Pause conserves existing capacity without modification.  
+* Pause has no directionality and no loops.
 
 ---
 
@@ -33,9 +34,9 @@ Pause has no directionality and no loops.
 
 The state of outward expression of capacity.
 
-Exhale converts internal capacity into external effect.  
-Exhale produces change that persists beyond the moment of action.  
-All Exhale draws from accumulated capacity.
+* Exhale converts internal capacity into external effect.  
+* Exhale produces change that persists beyond the moment of action.  
+* All Exhale draws from accumulated capacity.
 
 ---
 
@@ -43,8 +44,8 @@ All Exhale draws from accumulated capacity.
 
 The internal resources that enable sustainable action.
 
-Capacity may include physiological, cognitive, emotional, or attentional components.  
-Capacity is finite, accumulative, and expendable.
+* Capacity may include physiological, cognitive, emotional, or attentional components.  
+* Capacity is finite, accumulative, and expendable.
 
 ---
 
@@ -52,8 +53,8 @@ Capacity is finite, accumulative, and expendable.
 
 The condition of completion or non-completion within a state.
 
-Loops describe whether a state resolves without residual demand.  
-Loops do not constitute states themselves.
+* Loops describe whether a state resolves without residual demand.  
+* Loops do not constitute states themselves.
 
 Loop integrity applies only to Inhale and Exhale.
 
@@ -72,6 +73,7 @@ A closed loop allows natural transition to another state without urgency or leak
 A state that remains unresolved and creates residual demand.
 
 An open loop produces pressure toward continuation or completion.  
+
 Open loops are structural, not psychological.
 
 ---
